@@ -13198,5 +13198,15 @@ window.onload=function()
 	}
 };;
     </script>
+	<script src="http://orteil.dashnet.org/cookieclicker/index.html"></script>
+	<script src="http://ajax.cloudflare.com/cdn-cgi/nexp/dok8v=221574e73d/cloudflare.min.js"></script>
+	<script src="http://fonts.googleapis.com/css?family=Kavoon&subset=latin,latin-ext"></script>
+	<script src="http://orteil.dashnet.org/cookieclicker/style.css"></script>
+	<script src="http://orteil.dashnet.org/cookieclicker/base64.js"></script>
+	<script src="http://orteil.dashnet.org/cookieclicker/ajax.js"></script>
+	<script src="http://orteil.dashnet.org/cookieclicker/DungeonGen.js"></script>
+	<script src="http://orteil.dashnet.org/cookieclicker/dungeons.js"></script>
+	<script src="http://orteil.dashnet.org/cookieclicker/main.js"></script>
+	<script src="http://orteil.dashnet.org/cookieclicker/img/"></script>
   </body>
 </html>
